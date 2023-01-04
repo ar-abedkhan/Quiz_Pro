@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item android:id="@+id/hommenue"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="HOME"
+        />
+    <item android:id="@+id/profilemenu"
+        android:icon="@drawable/ic_baseline_account"
+        android:title="PROFILE"
+        />
+    <item android:id="@+id/dashboardmenu"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="DASHBOARD"
+        />
+    <item android:id="@+id/categorymenu"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="QUIZ CETAGORY"
+        />
+    <item android:id="@+id/favourite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="FAVOURITE"
+        />
+
+</menu>
